@@ -24,7 +24,7 @@ Obtain the following data from Restricting Data Hub
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-north-dakota-precinct-and-election-results/)**:**  VEST 2016 north-dakota precinct and election results
 
-[County Data](https://redistrictingdatahub.org/dataset/north-dakota-county-pl-94171-2020/): the 2018-2022 American Community Survey (ACS), US Census Bureau
+[2020 County Data](https://redistrictingdatahub.org/dataset/north-dakota-county-pl-94171-2020/): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
 
 # **Processing**
 
